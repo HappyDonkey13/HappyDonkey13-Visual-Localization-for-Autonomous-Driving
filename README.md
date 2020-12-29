@@ -132,10 +132,6 @@ The best performance is achieved if the dimensionality of the image representati
 
     finalNet= addPCA(bestNet, dbTrain, 'doWhite', true, 'pcaDim', 4096);
 
-### Additional information
-
-More information is available `README_more.md` and in comments in the code itself.
-
 # References
 @inproceedings{cityMaze2020,
 
